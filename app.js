@@ -1,4 +1,4 @@
-const board = document.querySelector('#board')
+const board = document.querySelector('#board');
 const SQUARES_NUMBER = 500
 const colors = ['red', 'blue', 'green', 'yellow', 'purple']
 
